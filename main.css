@@ -1,0 +1,37 @@
+body {
+    background-image: url("treebackground.gif");
+    background-size: cover;
+    width: 100vw;
+    height: 106vh;
+    background-repeat: no-repeat, repeat;
+    
+}
+h1 {font-size: 35px;}
+h2 {font-size: 35px;}
+h3 {font-size: 35px;}
+h4 {font-size: 35px;}
+h5 {font-size: 35px;}
+h6 {font-size: 35px;}
+
+p {font-size: 20px;}
+
+button 
+{
+    
+    background-color: rgb(64, 255, 191);
+    border: 2px solid rgb(0, 202, 125);
+    color: black;
+    border-radius: 12px;
+}
+
+
+    a:visited 
+    {
+    color:purple;
+    }
+
+
+
+
+/* .button {font-size: 20px;} */
+/* colour buttons and colour text.  */
