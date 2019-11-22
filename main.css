@@ -1,8 +1,9 @@
 body {
     background-image: url("treebackground.gif");
     background-size: cover;
+    background-position: center;
     width: 100vw;
-    height: 106vh;
+    height: 140vh;
     background-repeat: no-repeat, repeat;
     
 }
